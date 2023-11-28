@@ -1,2 +1,2 @@
 # Tempo
- Projeto climatio para a live do Dev em Dobro
+ Projeto climatico para a live do Dev em Dobro
